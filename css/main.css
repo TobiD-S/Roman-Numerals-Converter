@@ -46,7 +46,7 @@ input {
     opacity: 0.2;
 }
 
-@media(max-width: 500px) {
+@media(max-width: 600px) {
     body {
         padding-top: 20px;
     }
